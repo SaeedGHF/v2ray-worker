@@ -7,6 +7,7 @@
 
 To be completed...
 
+
 ## Deploy 
  1. Fork this Repo and enable Github Action
  2. Open CloudFlare and create KV namespace with name `settings` then copy the ID
